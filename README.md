@@ -14,3 +14,4 @@ Music from the greatest singer songwriter.
 | Title | Audio | Lyrics |
 |-------|-------|--------|
 | Alive | [Alive.mp3](songs/Alive.mp3) | [Alive.md](lyrics/Alive.md) |
+| And I Hold | [AndIHold.mp3](songs/AndIHold.mp3) | [AndIHold.md](lyrics/AndIHold.md) |
